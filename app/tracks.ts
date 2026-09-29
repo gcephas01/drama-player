@@ -1,0 +1,51 @@
+export const tracks = [
+  {
+    id: "who-will-go",
+    title: "Who Will Go?",
+    act: "Act I",
+    reference: "/audio/1_Who-Will-Go-Prologue_reference.mp3",
+    instrumental: "/audio/Who-Will-Go-Instrumental.mp3",
+  },
+  {
+    id: "the-lord-provides",
+    title: "The Lord Provides",
+    act: "Act I",
+    reference: "/audio/2_The-Lord-Provides_reference.mp3",
+    instrumental: "/audio/LordProvidesInstrumental1.mp3",
+  },
+    {
+    id: "hold-fast",
+    title: "Hold Fast",
+    act: "Act I",
+    reference: "/audio/3_Hold-Fast_reference.mp3",
+    instrumental: "/audio/HoldFastInstrumental.mp3",
+  },
+    {
+    id: "blessed-assurance",
+    title: "Blessed Assurance",
+    act: "Act II",
+    reference: "/audio/4_Blessed-Assurance-Draft_reference.mp3",
+    instrumental: "/audio/BlessedAssuranceInstrumental.mp3",
+  },
+    {
+    id: "one-crown-one-throne",
+    title: "One Crown, One Throne",
+    act: "Act III",
+    reference: "/audio/5_One-Crown-One-Throne_reference.mp3",
+    instrumental: "/audio/OneCrownOneThroneInstrumental.mp3",
+  },
+    {
+    id: "one-crown-one-throne-reprise",
+    title: "One Crown, One Throne",
+    act: "Act III",
+    reference: "/audio/6_One-Crown-One-Throne-Reprise_reference.mp3",
+    instrumental: "/audio/OneCrownOneThroneRepriseInstrumental.mp3",
+  },
+    {
+    id: "we-will-go",
+    title: "We Will Go",
+    act: "Act III",
+    reference: "/audio/7_We-Will-Go_reference.mp3",
+    instrumental: "/audio/WeWillGoInstrumental.mp3",
+  },
+];
